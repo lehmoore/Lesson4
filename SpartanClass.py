@@ -20,7 +20,6 @@ Spartan8 = Spartan(8, "Bethany Ryan", 21, "Data", "Isabella")
 Spartan9 = Spartan(9, "Jack Morton", 25, "Data", "Isabella")
 Spartan10 = Spartan(10, "William 'Will' Hann", 26, "Data", "Isabella")
 Spartan11 = Spartan(11, "Aoran 'Richard' Zhang", 23, "Data", "Isabella")
-Spartan12 = Spartan(12, "Demi Efstratiou", 21, "Data", "Isabella")
+Spartan12 = Spartan(12, "Demetra 'Demi' Efstratiou", 21, "Data", "Isabella")
 Spartan13 = Spartan(13, "Karam Treohan", 22, "Data", "Isabella")
 Spartan14 = Spartan(14, "Himesh Sampat", 21, "Data", "Isabella")
-
